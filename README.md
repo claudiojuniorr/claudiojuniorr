@@ -5,7 +5,7 @@
 
 - 🌱 I am currently studying **Computer Networks and Certified Tech Developer (Full Stack Development)**
 
-- 👨‍💻 All of my projects are available at [LOADING](LOADING)
+- 👨‍💻 All of my projects are available at [LOADING]
 
 - 📫 How to reach me **cr.ribeiro.jr@gmail.com**
 
